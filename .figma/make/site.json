@@ -1,0 +1,10 @@
+{
+  "description": "Enables residents to quickly find tailored welfare programs by selecting life stage, interests, and situations, fostering engagement and feedback.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
